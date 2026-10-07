@@ -33,7 +33,7 @@ To get started, you can clone the entire repository or pick files as required.
 
 ### Git
 
-Run:  `git clone https://github.com/CarterFaceySmith/SecondBrain.git`
+Run:  `git clone https://github.com/Carter-FS/SecondBrain.git`
 
 ### [Obsidian](https://obsidian.md/)
 
@@ -44,7 +44,7 @@ I personally use this application for notetaking and organisation because I enjo
 #### Obsidian Installation
 
 1. Download the latest Obsidian release for your operating system [here](https://obsidian.md/).
-2. Clone the repository as above: `git clone https://github.com/CarterFaceySmith/SecondBrain.git`
+2. Clone the repository as above: `git clone https://github.com/Carter-FS/SecondBrain.git`
 3. Open the cloned repository as a "Vault" from the Obsidian startup menu.
 
 Simple.

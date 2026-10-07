@@ -14,7 +14,7 @@ Alternatively you can set the repo up entirely from the command line:
 - ```git add README.md```
 - ```git commit -m "initial commit"```
 - ```gh repo create <reponame> --public or --private```
-- ```git remote add origin git@github.com:carterfaceysmith/<reponame>.git```
+- ```git remote add origin git@github.com:Carter-FS/<reponame>.git```
 - ```git push -u origin main```
 
 ## Commands
